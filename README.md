@@ -1,3 +1,3 @@
 ```bash
-Cargo run
+cargo run
 ```
